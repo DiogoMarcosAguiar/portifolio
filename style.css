@@ -1,3 +1,247 @@
-.imagem {
-    background-image: src("img/background01jpg.jpg;")
+img {
+    border-radius: 20px;
 }
+
+.h1 {
+    color: white;
+    text-align: center;
+}
+
+.h4 {
+    color: aqua;
+    
+}
+.li {
+    color: yellow;
+}
+
+.imagem01 {
+    background-image: url(fundo1.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem02 {
+    background-image: url(fundo2.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem03 {
+    background-image: url(fundo3.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem04 {
+    background-image: url(fundo4.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem05 {
+    background-image: url(fundo5.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem06 {
+    background-image: url(fundo6.jpg);
+    width: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem07 {
+    background-image: url(fundo8.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem09 {
+    background-image: url(fundo9.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.imagem10 {
+    background-image: url(fundo10.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.nav ul {
+    position: fixed;
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.product {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 280px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product1 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 500px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    text-shadow: 20px;
+    
+}
+
+.product2 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 180px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    text-shadow: 20px;
+    
+}
+
+.product3 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 80px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product4 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 450px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product5 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 390px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: purple;
+    
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+.price {
+    font-size: 1.2rem;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+.footer {
+    background-color: #4CAF50;
+    color: red;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.fundo1 {
+    width: 100%;
+    background: url(../img/pipas_fundo1.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 25px;
+}
+
