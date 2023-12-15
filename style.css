@@ -169,6 +169,19 @@ img {
     
 }
 
+.product21 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    text-shadow: 20px;
+    
+}
+
 .product3 {
     border: 1px solid black;
     border-radius: 20px;
@@ -202,6 +215,30 @@ img {
     margin-bottom: 20px;
     text-align: center;
     background-color: purple;
+    
+}
+
+.product6 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 80px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.product7 {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 380px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
     
 }
 
